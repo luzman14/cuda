@@ -1,0 +1,281 @@
+.inicio {
+	background:#86509c;
+	text-align: center;
+	padding: 20px;
+}
+
+.menu {
+	font-family: arial;
+	color:white;
+	margin-top: 19px;
+}
+html body {
+	width: 100%;
+}
+.container {
+	width: 100% !important;
+}
+.sub {
+	margin-left: -10px;
+	margin-right: -10px;
+}
+h5 {
+	padding:5px;
+}
+.sub h5:hover {
+	background: #593767;
+	border-radius: 5px 5px 5px;
+}
+.texto {
+	background: #86509c;
+	text-align: center;
+	padding-top: 60px;
+	padding-bottom: 20px;
+	color: white;
+}
+.foto {
+	margin-left: -300px;
+}
+.inicio {
+	padding-bottom: 90px;
+}
+.inicio a h5 {
+	background: #EC7C4A;
+	height: 55px;
+	width: 250px;
+	margin:0 auto;
+	padding: 20px;
+	box-shadow: 0px 5px 0px 0px #E07B57;
+	color: white;
+}
+
+.inicio a {
+	text-decoration: none;
+}
+.parte1 {
+	background: #17C1A4;
+	color:white;
+	text-align: center;
+	padding-top: 90px;
+}
+
+.dibujo {
+	text-align:center;
+	padding-top: 90px;
+	padding-bottom: 90px;
+	background:#17C1A4;
+	color: white;
+}
+.dibujo h3 {
+	padding-top: 70px;
+	padding-bottom: 20px;
+}
+.boton {
+	margin:0px auto;
+	width: 90px;
+	background:gray;
+	padding-top: 2px;
+	padding-bottom: 2px; 
+}
+.parte2 {
+	text-align: center;
+	padding-top: 90px;
+	background-color: rgb(222,243,243);
+}
+
+.circle {
+	margin: 0px auto;
+	height: 250px;
+	width: 250px;
+	border-radius: 300px 300px 300px; 
+}
+.figura {
+	padding-top: 90px;
+	padding-bottom: 90px;
+	margin: 0px auto;
+	text-align: center;
+	background:rgb(222,243,243);
+	color:black;
+	margin: -20px;
+}
+.espacio {
+	margin: 0px auto;
+	padding-top: 60px;
+	padding-bottom: 90px;
+	text-align: center;
+}
+.parte3 {
+	padding-top: 90px;
+	text-align: center;
+}
+
+p {
+	font-family: arial;
+	font-size: 17px;
+}
+h1 {
+	font-family:britannic bold;
+}
+.amarillo {
+	background-color:rgb(255,221,153);
+	text-align: center;
+	padding-top: 90px;
+}
+.botones {
+	text-align: center;
+	padding: 10px;
+	background-color:rgb(255,221,153);
+}
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding:0;
+}
+li {
+    display: inline-block;
+    padding:5px;
+}
+li a {
+    display: block;
+    color:black;
+    padding-left: 22px;
+    padding-right: 22px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    text-decoration: none;
+    background-color: rgb(235,201,133);
+    border-radius: 5px 5px 5px;
+} 
+li a:hover {
+    background-color:white;
+    text-decoration: none;
+    color: black;
+}
+
+.menu2 {
+	padding-top: 20px;
+	text-align: center;
+	background-color:rgb(255,221,153);
+}
+.menu2 h5 {
+	font-family: arial;
+}
+.load {
+	padding-top: 50px;
+	padding-bottom: 90px;
+	text-align: center;
+	background-color:rgb(255,221,153); 
+}
+.load a h5 {
+	box-shadow: 0px 5px 0px rgb(56,177,149);
+	border-radius: 5px 5px 5px;
+	color: white;
+	margin: 0px auto;
+	background-color: rgb(23,194,164);
+	width: 250px;
+	padding: 20px;
+}
+
+.load a {
+	text-decoration: none;
+}
+
+.rosado {
+	padding-top: 90px;
+	background-color: rgb(215,70,128);
+	text-align: center;
+	color: white;
+}
+.rosado2 {
+	padding-left: 100px;
+	padding-right: 100px;
+	padding-bottom: 90px;
+	text-align:left;
+	padding-top: 60px;
+	background-color: rgb(215,70,128);
+	color: white;
+}
+
+.rosado2 img {
+	width: 110px;
+	height: 110px;
+	border-radius:100px;
+}
+.rosado2 h4 {
+	color: rgb(255,221,153); 
+}
+
+.ultimo {
+	color: white;
+	padding-top: 90px;
+	text-align: center;
+	background-color: rgb(60,84,153);
+}
+#usuario {
+	width: 70%;
+	background:rgb(39,58,113);
+	border-radius: 5px;
+	border: 0px;
+	padding: 15px;
+}
+#correo {
+	width: 70%;
+	background:rgb(39,58,113);
+	border-radius: 5px;
+	border:0px;
+	padding: 15px;
+}
+
+.paz {
+	padding-bottom: 20px;
+}
+#mensaje {
+	width: 85%;
+	background:rgb(39,58,113);
+	border-radius: 5px;
+	border:0px;
+}
+.ultimo2 {
+	color: white;
+	padding-top: 40px;
+	padding-bottom: 70px;
+	text-align: center;
+	background-color: rgb(60,84,153);
+}
+
+.ultimo3 {
+	background-color: rgb(60,84,153);
+	text-align: center;
+	color: white;
+	padding-bottom: 90px;
+}
+
+.ultimo3 a h5 {
+	color: white;
+	margin: 0 auto;
+	background-color: rgb(48,186,321);
+	width: 250px;
+	padding: 20px;
+	border-radius: 5px;
+	box-shadow: 0px 5px 0px rgb(50,110,220);
+}
+.ultimo3 a:hover{
+	background-color: rgb(48,186,321);
+	text-decoration: none;
+}
+
+.foter {
+	background-color: rgb(39,58,113);
+	text-align: center;
+	padding: 20px;
+}
+.foter a {
+	color: white;
+}
+.foter a:hover {
+	text-decoration: none;
+	color: rgb(50,110,220);
+}
+.foo {
+	margin: 0px auto;
+}
